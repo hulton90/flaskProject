@@ -1,0 +1,19 @@
+{
+  "name": "flaskproject",
+  "scripts": {
+    "watch-css": "npx tailwindcss -i ./static/css/src/input.css -o ./static/css/dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hulton90/flaskProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hulton90/flaskProject/issues"
+  },
+  "homepage": "https://github.com/hulton90/flaskProject#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.6"
+  }
+}
